@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+yml_catalog date="2024-02-09 14:49">
+<shop>
+<name>Акесо Медикал</name>
+<company>ООО Акесо Медикал</company>
+<url>https://akeso-medical.ru/</url>
+<email>akeso-medical@yandex.ru</email>
+<picture>https://cdn-ru.bitrix24.ru/b26300570/landing/237/23722c5ee11d689cf8f242011698214d/Novyy_proekt_1x_1x.png</picture>
+<description>Многопрофильный медицинский центр в Сочи</description>
+<currencies>
+<currency id="RUR" rate="1"/>
+</currencies>
+<categories>
+<category id="1">Врач</category>
+</categories>
+<sets>
+<set id="set_1">
+<name>Акушер-гинеколог</name>
+<url>https://akeso-medical.ru/gynecology/</url>
+</set>
+<set id="set_2">
+<name>Гинеколог-эндокринолог</name>
+<url>https://akeso-medical.ru/gynecology/</url>
+</set>
+<set id="set_3">
+<name>Детский гинеколог</name>
+<url>https://akeso-medical.ru/gynecology/</url>
+</set>
+</sets>
+<offers>
+<offer id="vrach15680" group_id="1">
+<categoryId>1</categoryId>
+<set-ids>set_1,set_2,set_3</set-ids>
+<name>Бичурина Людмила Кирилловна</name>
+<url>https://akeso-medical.ru/Bichurina/</url>
+<price>1800</price>
+<oldprice>1800</oldprice>
+<currencyId>RUB</currencyId>
+<sales_notes>Первичный прием</sales_notes>
+<description>Врач высшей категории. Стаж 42 года. СПЕЦИАЛЬНОСТЬ: Врач-акушер-гинеколог, врач гинеколог-эндокринолог, детский гинеколог. ПРОФИЛЬ ЛЕЧЕНИЯ: Лечение менопаузальных нарушений, климактерического синдрома, нарушения менструального цикла, бесплодия, лечение заболеваний, передающихся половым путём, фоновых заболеваний шейки матки, диагностика и лечение эрозии шейки матки, гинекологическая эндокринология, интимная пластика (филлеры, нити)</description>
+<picture>https://cdn-ru.bitrix24.ru/b26300570/landing/32f/32f296ef550d587589a14ea252ab9af1/bichurina2_1x.png</picture>
+<param name="Фамилия">Бичурина</param>
+<param name="Имя">Людмила</param>
+<param name="Отчество">Кирилловна</param>
+<param name="Годы опыта">42</param>
+<param name="Начало карьеры">1982-01-01</param>
+<param name="Город">Сочи</param>
+<param name="Взрослый врач">true</param>
+<param name="Детский врач">true</param>
+<param name="Категория">Высшая категория</param>
+<param name="Город клиники">Сочи</param>
+<param name="Адрес клиники">ул. Камо, д. 3а, пом. 1</param>
+<param name="Название клиники">Акесо Медикал</param>
+<param name="Возможность записи">true</param>
+<param name="Онлайн-расписание">true</param>
+<param name="Телефон для записи">+79882351515</param>
+<param name="Прием по ОМС">false</param>
+<param name="Образование - 1" unit="Организация">Башкирский государственный медицинский университет (лечебное дело)</param>
+<param name="Образование - 1" unit="Дата">1982</param>
+<param name="Образование - 1" unit="Название">Базовое</param>
+<param name="Образование - 1" unit="Специальность">Лечебное дело</param>
+</offer>
+</offers>
+</shop>
+</yml_catalog>
